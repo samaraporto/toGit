@@ -1,8 +1,7 @@
 ola
-<<<<<<< HEAD
+
 
 
 adicionando mais coisas
 =======
 caraleo
->>>>>>> refs/remotes/origin/main
